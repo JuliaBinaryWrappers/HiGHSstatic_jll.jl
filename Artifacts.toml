@@ -1,268 +1,268 @@
 [[HiGHSstatic]]
 arch = "aarch64"
-git-tree-sha1 = "9a9bdd76227c9069677c0defb4a5780f4640a54b"
+git-tree-sha1 = "572baab2d003897d3a0b78127ee527a52d1d7182"
 os = "macos"
 
     [[HiGHSstatic.download]]
-    sha256 = "092405c77808a5ed13b9a4a90fb94ac2591df682ec2fe7ca0ccc97144b6f85dd"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "adcc25b30ad0b8dfebf40e5b817df024574624d8d98519b1ab729fd9db6af7b6"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.aarch64-apple-darwin.tar.gz"
 [[HiGHSstatic]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "55f33e5fac327497f45e72bd78cb8c580befc8b1"
+git-tree-sha1 = "d1c3d7cec1104eaafdd583d98f0015d1f0f24e77"
 libc = "glibc"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "442c6cc319b4aaf5dcff898936c8ede40570508a03e8b3693bbcdc76128eeaf5"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "9a713f1ab4d86aac6235c627c22ca3c7d85384bff84b087afeedea0be0c9b55e"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.aarch64-linux-gnu-cxx03.tar.gz"
 [[HiGHSstatic]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "50301f6da0b4a95a1a49a565edb29a267c091844"
+git-tree-sha1 = "32c4ec6ae7cab6504caab6ba1d4872b30419df13"
 libc = "glibc"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "4b2503df6fecaa882dfbd2f23058e8e6f580e8989afe0648ae30c7c6278e6c06"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "88d979ddda03267e720ce0cf8d67bef45da34f94371fc88d3963ef09bb8347a3"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.aarch64-linux-gnu-cxx11.tar.gz"
 [[HiGHSstatic]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d02806c31399d1807f1dacdd8b87da287e6a8b34"
+git-tree-sha1 = "fcbe5553bcb233619cee5c77ed426a34a700ce70"
 libc = "musl"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "42c4648fe037e881c62534f07f5bc2f291d15999c7a028aaf12379f0474c6019"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "97bb664ea959cd64b72c01dbcc203589dc8fb75439e9ace4ed43b3a1bdaacfaf"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.aarch64-linux-musl-cxx03.tar.gz"
 [[HiGHSstatic]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5a1a7a87398018e810b47a264bd8d346bfbfa5d5"
+git-tree-sha1 = "5b3c13e9eefefc80b82d909595850fdae8e4591d"
 libc = "musl"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "960d8f3f0409614231eae784e02180e7c6112da6c8fb55c7431e581025ecfd48"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "1b3486f1e1ca9b7f8902ad56a3feeb721468ecab353a2537062cdb175d177739"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.aarch64-linux-musl-cxx11.tar.gz"
 [[HiGHSstatic]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "27524974b4cdcf99e65ffd0c2235a68aaf3d7ec6"
+git-tree-sha1 = "0aaeb3cf530926542402770493f58e993054af37"
 libc = "glibc"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "2ddfa792a10f4d6263b3ee1029110bcfe8b37a5566a76fbe45f3b7b9882a471c"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "d84558d73557522f53f0c62eb5e2e7753d6adda4800a17f1f9acaaf681b3603a"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[HiGHSstatic]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d7239fd816ab24ac0077359a9ebabca9fd353ddd"
+git-tree-sha1 = "03610d5bdb92f9d2400c7221033cc43e3a2ef974"
 libc = "glibc"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "2f11a7d7b0c3a42b649332825c61a74b101ba4a98ad19d652ce861889e388ed2"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "d08d8a5c4aba2a1aca462b8836c1c84fedf6f966042597304c829ab14d45a106"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[HiGHSstatic]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "39b849f184d47e94821ace5c6217de544a35adaf"
+git-tree-sha1 = "c4d50a00b38fff285bf3031b2a35cfdb6b5e99b6"
 libc = "musl"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "066c1e154712d6d1a7dfdfc2072d95249924707304208a037c9028b7ac64a84c"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "2324a9c0d7a93e0fda6bd6c480177a94ee6f8643d556d8a96cb03899a3b217c4"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[HiGHSstatic]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5257dd2d58ff175aacd1db2ea1f4c653d9839132"
+git-tree-sha1 = "916dc15c7c1fe8c66d3653aec682703a4c6a7da7"
 libc = "musl"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "9ecff8475b12950cf21d616b03739d93921ae0c09d8ee7738ec36266eb6c6183"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "d90943eb55bd57927bf483e21ba7f39dd195b69ff5ee7162875e8ed7b3ff9ce9"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[HiGHSstatic]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "99f87a31f916fe726bef80a42a480abd1ba7e15f"
+git-tree-sha1 = "00d1c589da5b9e8ce55e2c381f86d4e52b8273ab"
 libc = "glibc"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "2e57aa7788460b8a19a98fd1059200dca2cec712affb009388a7232bb7a898a0"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "3c399e6b5a6c2c853889b9c4d4396f1e1b42d492a60270f98cbe9f2455344cb6"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[HiGHSstatic]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2858738e26ce1445cba42bba1043af5039077519"
+git-tree-sha1 = "eb7345fc00e5edcd77ca2110232417f12fd15220"
 libc = "glibc"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "c2b1a607b16a61e9cc38903ac7c54e38f8d4ec0da30ba2a0569c4d3649b88775"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "de32ad5502603b7315da2804bce035faea3f8925f68b35b627119cc59bd1fa8e"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[HiGHSstatic]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e3c80ac261b3ba01c877f6b39ba266d03e2c1627"
+git-tree-sha1 = "b6c38160da0ee0f8fde0a1c1c1c18e8298c364ba"
 libc = "musl"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "50e06907484332322a7a3e16258ce7c9e104c36eb08e7b13c119ae0aaddefc07"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "59ff8e7771ae6c5d9e78efe92fb03d686c1ee444c5faa0d58ac4617188044f85"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[HiGHSstatic]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6d5cb89c8a0883a7380ab42e9d4cd974504aab27"
+git-tree-sha1 = "f65b9361f152af6d49f36d56a78f567b3855fab0"
 libc = "musl"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "f2946a13e42cd7b59d1e1f8bea0a734724514eef0bb38a2a6c6fa413c5c9c1ed"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "984d9fd207ebe3e29b082cb35297c2f13db8283187af3249f8ea2476cb4bfbd5"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[HiGHSstatic]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2d70ab33b00a2e4a95e1ad0804a69820c1d55b5c"
+git-tree-sha1 = "aa3252c0d808d34b0dcf401fbdf21d7d90ec9823"
 libc = "glibc"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "9d4f1d83efa11e62c9b18ead08b3b73acfeb74fad94279128b596b8f89cad762"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "ac0c9a3e67c3d7479713e9cd4cef4074855fd1d1513f6c3084f3996998bd0679"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.i686-linux-gnu-cxx03.tar.gz"
 [[HiGHSstatic]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4ee96eeddd6eabb1d6c8da715084d89c0efa507f"
+git-tree-sha1 = "6260855cb2fffaaaeb6d1571221590726f606682"
 libc = "glibc"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "df1fece463767d65659c4102cd961f30705618b9446ef5f85e5cb902c26b21a3"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "4d93352e28e33446f4cbc1c799e73c1ba32c5dfe8e02066714e834ef2e04cb5c"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.i686-linux-gnu-cxx11.tar.gz"
 [[HiGHSstatic]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "80e11c0f9cb95ef3d3082ff347431c47292ba5e3"
+git-tree-sha1 = "9e9d781cdf717d58bc589515246d4a1efc3eca16"
 libc = "musl"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "e8cf9513307af2cd39d17bf1b5187efdf7532ea7f48399a3eba661313ae05fa8"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "4fecdf6a729d01f5ff662453796f438bf5b75ed020fb237a5abcad24e349a40f"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.i686-linux-musl-cxx03.tar.gz"
 [[HiGHSstatic]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2c20353702d8bc9299c363c516a5873289e69938"
+git-tree-sha1 = "c3f276c0fb68a27bba8ebecd01ebdf89c14be530"
 libc = "musl"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "de13f1ab65ed772a27872ec368f1c8b81622e80a431eddbff6be739621cff5ff"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "b05264c43844360a6b4b1e617b63d6cb40631b632e99f933463c1b95656e4192"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.i686-linux-musl-cxx11.tar.gz"
 [[HiGHSstatic]]
 arch = "i686"
-git-tree-sha1 = "a822fdb37334de9cfa82228db70dfef7d9735788"
+git-tree-sha1 = "9e7e2c430fb7e5e9b33282966e949a099a27ddc0"
 os = "windows"
 
     [[HiGHSstatic.download]]
-    sha256 = "d749cb8735e2e96dc08652b4e4ed7f92852288315856c95e45266f06ca3851b7"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.i686-w64-mingw32.tar.gz"
+    sha256 = "cc1e094f5a87defa5b93ae185be2cac9daf5997e5a845e4ba73528ba2e4127fe"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.i686-w64-mingw32.tar.gz"
 [[HiGHSstatic]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "db053af21de2dc951b1fb04230ac24168e229fd0"
+git-tree-sha1 = "0c66e1a96dd349f8a73ea5c5b96afdb4716b328d"
 libc = "glibc"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "cd539bd42dfa46f6bfad1c0488a768ca2cba689653cee5fcf9de9ef48c2cc957"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "14e6d1792d30fe215ec11e3da999a8d8ba4dd3663bf770a602b63916c8cea1bc"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[HiGHSstatic]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bd013cf09d2407f49f00d592b3de10869d6ac4a5"
+git-tree-sha1 = "af4bfd80f4166c45f2fd6e3551941653476d27d0"
 libc = "glibc"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "66a21b71140961cedcd71f7167c8f00bdcaed2f3e1141cab5f5dd6111ef9a83c"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "2211264fbbdc7964b2c9720c00344d493c687fef090b192434ac797cc1c978a4"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[HiGHSstatic]]
 arch = "x86_64"
-git-tree-sha1 = "04f17ab81bca395ce6335573a1b03e5933f7b55e"
+git-tree-sha1 = "61059fd26da87369bb00e582a37240a9f22a7ca6"
 os = "macos"
 
     [[HiGHSstatic.download]]
-    sha256 = "5e6c486400c8c7900cfe6ca1be78fc15b302bb056a0d05f1accb30cf0370a8b6"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "42b7e1a4ae50b6c61c72e7ebb2ee67dc6690e7c9bd6772e435867cbc122d78b1"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.x86_64-apple-darwin.tar.gz"
 [[HiGHSstatic]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6510ded84897fd66d449cdc6c0326a3de9bbbc59"
+git-tree-sha1 = "ef45789744d5d38bd803bafe430cdd05d76eee6e"
 libc = "glibc"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "bfea47b28c6337d9e0782a4715913a10cc129d695893a6458d3ea02563c6976f"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "02092c78e7e24c581e5be6d80dae2686b5a1cc8138a224ff913e6ccbbfd585e6"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.x86_64-linux-gnu-cxx03.tar.gz"
 [[HiGHSstatic]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "76325c1ea123eda75b0175c86bdac653f27711c5"
+git-tree-sha1 = "22a35e394d303f8afefe17df822e49dea0afe7b0"
 libc = "glibc"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "3adb24d9dda219c5fd38f8fe9032007556052c756c68beec4940d4b2ab2799b7"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "7288922c1b6f1664d1275476079f7f0d9b4af151d6e5cd07846ac0b8683ca671"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.x86_64-linux-gnu-cxx11.tar.gz"
 [[HiGHSstatic]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7a97f1614c7d4c075eb2cf2f62c575f2cb6413b7"
+git-tree-sha1 = "8a76f62be7688e682e3c01f4db72ff2be8e9bcca"
 libc = "musl"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "02bcfe05fa7daf1ad745968e2c0b94b3132721c0cdaf7239611f548f855faef8"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "4886ec697a77580513fe745fadd265dcfa319ced617759ded56e2f83e7a579ef"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.x86_64-linux-musl-cxx03.tar.gz"
 [[HiGHSstatic]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5fadfa0724a4cfecb60aca9ea177a38f3df34ff2"
+git-tree-sha1 = "d270e046437acec1432eef7a8b91611e014e1199"
 libc = "musl"
 os = "linux"
 
     [[HiGHSstatic.download]]
-    sha256 = "483f3e33f5656237588b31e5c5a47010afc3987d1f6f20f7ffc2c962d9c28979"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "2aa24e1af9ce17925b125252215bcd9a797ebc7f449d3c6de453569312194d5c"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.x86_64-linux-musl-cxx11.tar.gz"
 [[HiGHSstatic]]
 arch = "x86_64"
-git-tree-sha1 = "e7404ccaf3eaaa41af8f09bf4952f677d28ec671"
+git-tree-sha1 = "8763c961c4b20c3de656f29775b6eba6f63dae27"
 os = "freebsd"
 
     [[HiGHSstatic.download]]
-    sha256 = "d4bed708f9ec25451d0e85c01a43b9e11f2d3c193bab1e36d74824efea1f0311"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "a2aebd35c749b242c5cbdfbbe5091f452722cee925f25bb29c7af9285037422a"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.x86_64-unknown-freebsd.tar.gz"
 [[HiGHSstatic]]
 arch = "x86_64"
-git-tree-sha1 = "3482f239c271008c52a35bde6d426803bfeb211c"
+git-tree-sha1 = "880c2778156920e4721cbe5e8e34b5920a386ffd"
 os = "windows"
 
     [[HiGHSstatic.download]]
-    sha256 = "2816e1e078a847dadd08f78eaf52ece459ebb2ba0046f09138839ab4d717f632"
-    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.1+0/HiGHSstatic.v1.5.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "f5c22bb1bfac953387636c35af0c7643eb8f16eefed24951bfda4f1fe0ddd184"
+    url = "https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases/download/HiGHSstatic-v1.5.3+0/HiGHSstatic.v1.5.3.x86_64-w64-mingw32.tar.gz"
