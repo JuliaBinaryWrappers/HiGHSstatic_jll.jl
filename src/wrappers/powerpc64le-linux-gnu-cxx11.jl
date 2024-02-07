@@ -2,10 +2,11 @@
 export highs
 
 using CompilerSupportLibraries_jll
+using Zlib_jll
 JLLWrappers.@generate_wrapper_header("HiGHSstatic")
 JLLWrappers.@declare_executable_product(highs)
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, Zlib_jll)
     JLLWrappers.@init_executable_product(
         highs,
         "bin/highs",
