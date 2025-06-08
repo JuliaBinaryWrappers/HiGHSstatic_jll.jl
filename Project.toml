@@ -1,6 +1,6 @@
 name = "HiGHSstatic_jll"
 uuid = "30d44bb2-ff8b-57e8-b516-b10f428bad0e"
-version = "1.11.0+0"
+version = "1.11.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
